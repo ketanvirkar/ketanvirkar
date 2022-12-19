@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanvirkar&label=Profile%20views&color=0e75b6&style=flat" alt="ketanvirkar" /> </p>
 
+# 💫 About Me:
+
 - 🌱 I’m currently learning Web3, Blockchain
 
 - 💬 Ask me about React.js, Node.js
@@ -27,9 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ketanvirkar&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ketanvirkar&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanvirkar&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ketanvirkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
