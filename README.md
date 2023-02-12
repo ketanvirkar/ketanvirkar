@@ -6,7 +6,7 @@
 
 ### 💫 About Me:
 
-- 🌱 I’m currently learning Web3, Blockchain
+- 🌱 I’m currently Mastering Javascript❤️
 
 - 💬 Ask me about React.js, Node.js
 
