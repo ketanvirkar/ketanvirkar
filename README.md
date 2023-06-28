@@ -6,7 +6,7 @@
 
 ### 💫 About Me:
 
-- 🌱 I’m currently Mastering Javascript❤️
+- 🌱 I’m currently Mastering DSA in Java❤️
 
 - 💬 Ask me about React.js, Node.js
 
