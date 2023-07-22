@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ketanvirkar123@gmail.com**
 
-- Download Resume - https://shorturl.at/ptNV1
+
 
 <br>
 
